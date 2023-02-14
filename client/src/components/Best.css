@@ -1,0 +1,46 @@
+.heading{
+    margin-top:10vh;
+    text-align: center;
+    font-size: 40px;
+
+}
+.best{
+    display: flex;
+    justify-content: center;
+    
+}
+.best p{
+    padding-left: 3vw;
+    font-size: medium;
+    
+}
+ .bold{
+    font-weight: bolder;
+ }
+ img{
+    height:400px;
+    width:500px ;
+    padding-left: 6vw;
+ }
+ @media screen and (max-width:1280px){
+    images{
+        display:flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+    }
+    img{
+        padding-left:20vw;
+        height:40vh;
+        width:85vw;
+        padding-bottom: 20px;
+    }
+}
+.btn.view{
+    text-align:center;
+    margin-left:45vw;
+    margin-top: 2vh;
+}
+.link{
+    color: rgb(218, 230, 240);
+    text-decoration: none;
+}

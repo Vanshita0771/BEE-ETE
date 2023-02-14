@@ -1,0 +1,20 @@
+.about{
+    height:600px;
+    width:1440px;
+    margin-left:30px;
+    margin-top: 100px;
+}
+.Image{
+    height:500px;
+    width:600px;
+    border-radius: 25px 100px 30px 37px;
+}
+.about .content1{
+    padding-left: 100px;
+    padding-top: 65px;
+    height: 200px;
+    width:800px;
+    display:inline-block;
+    font-size:large;
+    font-family:sans-serif;
+} 
